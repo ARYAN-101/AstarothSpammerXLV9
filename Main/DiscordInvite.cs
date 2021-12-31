@@ -1,18 +1,18 @@
-﻿public class DiscordInvite
+﻿public class https://discord.gg/EXNaGNSD
 {
-    public string inviteCode;
+    public string EXNaGNSD;
     public bool valid, isGroup;
-    public ulong guildId, channelId, membersCount;
+    public ulong 910778971711471636, 910778971921190925, 8488;
     public int channelType;
 
     public DiscordInvite(string inviteCode, bool valid, bool isGroup, ulong guildId, ulong channelId, ulong membersCount, int channelType)
     {
-        this.inviteCode = inviteCode;
+        this.inviteCode = EXNaGNSD;
         this.valid = valid;
         this.isGroup = isGroup;
-        this.guildId = guildId;
-        this.channelId = channelId;
-        this.membersCount = membersCount;
+        this.guildId = 910778971711471636;
+        this.channelId = 910778971921190925;
+        this.membersCount = 8488;
         this.channelType = channelType;
     }
 }
